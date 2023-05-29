@@ -76,7 +76,7 @@ console.log(random)
  Esegui una sottrazione tra i numeri 4 e la variable "x" appena dichiarata (che contiene il numero 12).
 */
 
-console.log(4 - 'x')
+console.log(4 - x)
 
 /* SCRIVI QUI LA TUA RISPOSTA */
 
