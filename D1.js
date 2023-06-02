@@ -67,7 +67,7 @@ name = 'De Lorenzo'
 
 console.log(name)
 
-const random = 'Epicode'
+//const random = 'Epicode'
 random = 'Epicode12'
 
 console.log(random)
@@ -97,6 +97,11 @@ console.log(sottrazione)
 let name1 = 'john'
 let name2 = 'John'
 
-name1 !== name2 
+let isDifferent = name1 === name2
+console.log(isDifferent)
 
-console.log(name1 !== name2)
+
+// EXTRA
+
+isDifferent = (name1 === name2)
+console.log(!isDifferent)
